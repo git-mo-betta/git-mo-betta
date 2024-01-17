@@ -17,7 +17,7 @@
 <h2>Network designs from draw.io?</h2>
 
 
-<h2>Put Photo of your certification</h2>
+<h2>Put-----HEHEHE I DID THIS IN NANO ! Photo of your certification</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
