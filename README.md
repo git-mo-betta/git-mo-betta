@@ -1,7 +1,35 @@
-### Hi there 👋
+<h1>Hi, I'm Jose! <br/> <a href="https://www.linkedin.com/in/jose-claudio-967974271/">Network Security Professional</a>,<br/>
 
-<!--
-**git-mo-betta/git-mo-betta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>Practicing Basic Python Scripting</b>
+  - [Python Practice](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Eat To Live a Front End Development Project</b>
+  - [Front End](https://github.com/git-mo-betta/Eat-2-Live-)
+
+<h2>📺 Make some videos, maybe simple tutorial </h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>Network designs from draw.io?</h2>
+
+
+<h2>Put Photo of your certification</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoseClaudio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
++ <b>Jose.MClaudio@outlook.com</b>
+
+ 
+[linkedin]: https://www.linkedin.com/in/jose-claudio-967974271/
+
 
 Here are some ideas to get you started:
 
