@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 
-- <b>Network Configuration</b>
+- <b>[Network Configuration](https://github.com/git-mo-betta/Network_Configuration)</b>
   - [Small Office Home office]
   - [College Campus]
   - [Banking](https://github.com/git-mo-betta/Network_Configuration/blob/main/BANK_MODEL.md)
