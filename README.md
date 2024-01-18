@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+
 - <b>Practical Network Design</b>
   - 
 - <b>Practicing Basic Python Scripting</b>
