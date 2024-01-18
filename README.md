@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>Practical Network Design</b>
+  - 
 - <b>Practicing Basic Python Scripting</b>
   - [Python Practice](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Eat To Live a Front End Development Project</b>
   - [Front End](https://github.com/git-mo-betta/Eat-2-Live-)
+  
 
 <h2>📺 Make some videos, maybe simple tutorial </h2>
 
