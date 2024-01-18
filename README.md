@@ -3,8 +3,10 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 
-- <b>Practical Network Design</b>
-  - 
+- <b>Network Configuration</b>
+  - [Small Office Home office]
+  - [College Campus]
+  - [Banking] 
 - <b>Practicing Basic Python Scripting</b>
   - [Python Practice](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Eat To Live a Front End Development Project</b>
@@ -21,7 +23,7 @@
 <h2>Network designs from draw.io?</h2>
 
 
-<h2>Put-----HEHEHE I DID THIS IN NANO ! Photo of your certification</h2>
+<h2>CCNA Certified</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
