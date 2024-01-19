@@ -9,7 +9,7 @@
   - [Banking](https://github.com/git-mo-betta/Network_Configuration/blob/main/BANK_MODEL.md)
 - <b>Practicing Basic Python Scripting</b>
   - [Python Practice]
-- <b>Eat To Live a Front End Development Project</b>
+- <b>Front End HTML + CSS</b>
   - [Front End](https://github.com/git-mo-betta/Eat-2-Live-)
   
 
