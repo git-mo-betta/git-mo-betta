@@ -10,7 +10,9 @@
 - <b>Practicing Basic Python Scripting</b>
   - [Python Practice]
 - <b>Front End HTML + CSS</b>
-  - [Front End](https://github.com/git-mo-betta/Eat-2-Live-)
+  - [EAT2LIVE](https://github.com/git-mo-betta/Eat-2-Live-)
+  - [Excursion](https://github.com/git-mo-betta/excursion)
+  - [ColmarDebug](https://github.com/git-mo-betta/colmar/blob/main/README.md)
   
 
 <h2>📺 Make some videos, maybe simple tutorial </h2>
