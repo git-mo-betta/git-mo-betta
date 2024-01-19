@@ -4,7 +4,7 @@
 
 
 - <b>[Network Configuration](https://github.com/git-mo-betta/Network_Configuration)</b>
-  - [Small Office Home office]
+  - [Small Office Home office](https://github.com/git-mo-betta/Network_Configuration/blob/main/SOHO.md)
   - [College Campus](https://github.com/git-mo-betta/Network_Configuration/blob/main/Dual_Campus.md)
   - [Banking](https://github.com/git-mo-betta/Network_Configuration/blob/main/BANK_MODEL.md)
 - <b>Practicing Basic Python Scripting</b>
