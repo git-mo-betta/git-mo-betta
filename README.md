@@ -8,7 +8,7 @@
   - [College Campus](https://github.com/git-mo-betta/Network_Configuration/blob/main/Dual_Campus.md)
   - [Banking](https://github.com/git-mo-betta/Network_Configuration/blob/main/BANK_MODEL.md)
 - <b>Practicing Basic Python Scripting</b>
-  - [Python Practice](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python Practice]
 - <b>Eat To Live a Front End Development Project</b>
   - [Front End](https://github.com/git-mo-betta/Eat-2-Live-)
   
