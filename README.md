@@ -27,6 +27,8 @@
 
 <h2>CCNA Certified</h2>
 
+![CCNA](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/095e41b9-5fe8-48e3-9fb6-d91f04b2e289)
+
 
 <h2> 🤳 Connect with me:</h2>
 
