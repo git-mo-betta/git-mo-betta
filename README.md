@@ -7,8 +7,8 @@
   - [Small Office Home office](https://github.com/git-mo-betta/Network_Configuration/blob/main/SOHO.md)
   - [College Campus](https://github.com/git-mo-betta/Network_Configuration/blob/main/Dual_Campus.md)
   - [Banking](https://github.com/git-mo-betta/Network_Configuration/blob/main/BANK_MODEL.md)
-- <b>Practicing Basic Python Scripting</b>
-  - [Python Practice](https://github.com/git-mo-betta/Python)
+- <b>[Python Practice](https://github.com/git-mo-betta/Python)</b>
+
 - <b>Front End HTML + CSS</b>
   - [EAT2LIVE](https://github.com/git-mo-betta/Eat-2-Live-)
   - [Excursion](https://github.com/git-mo-betta/excursion)
