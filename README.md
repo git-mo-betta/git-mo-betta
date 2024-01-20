@@ -8,7 +8,9 @@
   - [College Campus](https://github.com/git-mo-betta/Network_Configuration/blob/main/Dual_Campus.md)
   - [Banking](https://github.com/git-mo-betta/Network_Configuration/blob/main/BANK_MODEL.md)
 - <b>[Python Practice](https://github.com/git-mo-betta/Python)</b>
-
+  - [SimpleATM]https://github.com/git-mo-betta/Python/blob/main/basicATM.py
+  - [GiftTaxcalc]https://github.com/git-mo-betta/Python/blob/main/gifttax.py
+  - [ProteinCalc]https://github.com/git-mo-betta/Python/blob/main/proteincalc.py
 - <b>Front End HTML + CSS</b>
   - [EAT2LIVE](https://github.com/git-mo-betta/Eat-2-Live-)
   - [Excursion](https://github.com/git-mo-betta/excursion)
