@@ -21,15 +21,6 @@
   - [ColmarDebug](https://github.com/git-mo-betta/colmar/blob/main/README.md)
   
 
-<h2>📺 Make some videos, maybe simple tutorial </h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-<h2>Network designs from draw.io?</h2>
-
 
 <h2>CCNA Certified</h2>
 
@@ -47,14 +38,4 @@
 [linkedin]: https://www.linkedin.com/in/jose-claudio-967974271/
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
