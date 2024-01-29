@@ -7,6 +7,9 @@
   - [Small Office Home office](https://github.com/git-mo-betta/Network_Configuration/blob/main/SOHO.md)
   - [College Campus](https://github.com/git-mo-betta/Network_Configuration/blob/main/Dual_Campus.md)
   - [Banking](https://github.com/git-mo-betta/Network_Configuration/blob/main/BANK_MODEL.md)
+- <b>[VoIP](https://github.com/git-mo-betta/VoIP)<b/>
+  - [B2BUA-Server](https://github.com/git-mo-betta/VoIP/blob/main/B2B_Useragent.md)
+  - [SIP Proxy](https://github.com/git-mo-betta/VoIP/blob/main/SIP_PROXY.md) 
 - <b>[Python Practice](https://github.com/git-mo-betta/Python)</b>
   - [SimpleATM](https://github.com/git-mo-betta/Python/blob/main/basicATM.py)
   - [GiftTaxcalc](https://github.com/git-mo-betta/Python/blob/main/gifttax.py)
