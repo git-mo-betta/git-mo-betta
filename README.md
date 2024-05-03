@@ -12,7 +12,7 @@
 - <b>[VoIP](https://github.com/git-mo-betta/VoIP)<b/>
   - [B2BUA-Server](https://github.com/git-mo-betta/VoIP/blob/main/B2B_Useragent.md)
   - [SIP Proxy](https://github.com/git-mo-betta/VoIP/blob/main/SIP_PROXY.md) 
-- <b>[Python Practice](https://github.com/git-mo-betta/Python)</b>
+- <b>[Python](https://github.com/git-mo-betta/Python)</b>
   - [SimpleATM](https://github.com/git-mo-betta/Python/blob/main/basicATM.py)
   - [GiftTaxcalc](https://github.com/git-mo-betta/Python/blob/main/gifttax.py)
   - [ProteinCalc](https://github.com/git-mo-betta/Python/blob/main/proteincalc.py)
