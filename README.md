@@ -1,3 +1,5 @@
+<img src="https://github.com/git-mo-betta/git-mo-betta/assets/119739482/ab1387d2-c5c4-4ca7-86d3-8a88ca6b751f" width="50%" height="50%">
+
 <h1>Hi, I'm Jose! <br/> <a href="https://www.linkedin.com/in/jose-claudio-967974271/">Network Security Professional</a>,<br/>
 
 <h2>👨‍💻 IT Projects:</h2>
