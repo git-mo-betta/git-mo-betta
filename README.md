@@ -19,6 +19,7 @@
   - [ProteinCalc](https://github.com/git-mo-betta/Python/blob/main/proteincalc.py)
   - [Data Parse (Powershell)](https://github.com/git-mo-betta/Automation/blob/main/Data_Parse.ps1)
   - [Diff (python)](https://github.com/git-mo-betta/Automation/blob/main/Diff.py)
+  - [Email_Reports (Bash)](https://github.com/git-mo-betta/Automation/blob/main/Email_Reports.sh)
 - <b>[CyberSecurity](https://github.com/git-mo-betta/CyberSecurity)
   -  [File Integrity Monitor (Python)](https://github.com/git-mo-betta/CyberSecurity/blob/main/File_Integrity.py)
   -  [Defensive Controls Mapping Report](https://github.com/git-mo-betta/CyberSecurity/blob/main/Defensive%20Controls%20Mapping.pdf)
