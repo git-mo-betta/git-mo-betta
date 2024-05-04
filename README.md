@@ -12,11 +12,12 @@
 - <b>[VoIP](https://github.com/git-mo-betta/VoIP)<b/>
   - [B2BUA-Server](https://github.com/git-mo-betta/VoIP/blob/main/B2B_Useragent.md)
   - [SIP Proxy](https://github.com/git-mo-betta/VoIP/blob/main/SIP_PROXY.md) 
-- <b>[Python](https://github.com/git-mo-betta/Python)</b>
+- <b>[Automation](https://github.com/git-mo-betta/Python)</b>
   - [FIM](https://github.com/git-mo-betta/Python/blob/main/File_Integrity.py)
   - [SimpleATM](https://github.com/git-mo-betta/Python/blob/main/basicATM.py)
   - [GiftTaxcalc](https://github.com/git-mo-betta/Python/blob/main/gifttax.py)
   - [ProteinCalc](https://github.com/git-mo-betta/Python/blob/main/proteincalc.py)
+  - [Data Parse (python)](https://github.com/git-mo-betta/Automation/blob/main/Data_Parse.ps1)
 - <b>[CyberSecurity](https://github.com/git-mo-betta/CyberSecurity)
   -  [File Integrity Monitor (Python)](https://github.com/git-mo-betta/CyberSecurity/blob/main/File_Integrity.py)
   -  [Defensive Controls Mapping Report](https://github.com/git-mo-betta/CyberSecurity/blob/main/Defensive%20Controls%20Mapping.pdf)
